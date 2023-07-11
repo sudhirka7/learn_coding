@@ -1,1 +1,7 @@
 this is the requirement for creating chatting application
+dark mode 
+video 
+audio 
+color thig 
+sudhir 
+chatting bar
